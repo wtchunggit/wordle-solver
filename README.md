@@ -1,3 +1,3 @@
 # wordle-solver
 
-Instructiona
+Instructions
